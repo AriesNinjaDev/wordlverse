@@ -1,2 +1,2 @@
 # wordlverse
-Created with CodeSandbox
+Not public yet! Stay tuned
